@@ -1,10 +1,9 @@
-# Hello, World! 👋
+# Hello, World! I'm Dilanka Yasith! 👋
 
-Welcome to my GitHub profile! I'm Dilanka Yasith, a passionate [Software Engineer ] who loves to code and create amazing things. Here's a little about me:
+Welcome to my GitHub profile! I'm Dilanka Yasith, a passionate Software Engineer who loves to code and create amazing things. Here's a little about me:
 
 - 🚀 I'm currently working on NodeCRUDAPI.
 - 🌱 I'm currently learning NodeJs.
-- 💬 Ask me about [Your Expertise].
 - 📫 How to reach me: via gmail: dilanka.20211020@iit.ac.lk
 - ⚡ Fun fact: I am not fun at all.
 

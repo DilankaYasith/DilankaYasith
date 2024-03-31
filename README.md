@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm Dilanka Yasith, a passionate Software Engineer
 - 🌱 I'm currently learning NodeJs and ASP.net.
 - 📫 How to reach me: via gmail: dilanka.20211020@iit.ac.lk
 - ⚡ Fun fact: I am not fun at all.
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -28,10 +29,12 @@ Welcome to my GitHub profile! I'm Dilanka Yasith, a passionate Software Engineer
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DilankaYasith&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DilankaYasith&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DilankaYasith&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### Connect with Me:
 <p align="left"> 
-  <a href="dilankayasith2001@gmail.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40"/> </a> 
+  <a href="www.linkedin.com/in/dilankayasith" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a> 
 </p>
 
 Let's connect and collaborate on some cool projects together! 😊
